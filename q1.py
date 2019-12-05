@@ -51,3 +51,6 @@ str3 = input("Enter String ")
 str3 = fun(str3)
 print(str3)
 '''
+
+
+dmeomdklnfsjjkbfksjbhf
